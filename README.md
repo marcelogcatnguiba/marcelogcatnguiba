@@ -1,2 +1,2 @@
 ## Conhecimentos
-<a title="vscode"><img src="icons/vscode.svg"/></a>
+<a title="vscode"><img src="/icons/vscode.svg"/></a>
