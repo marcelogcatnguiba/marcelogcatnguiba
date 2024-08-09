@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Conhecimentos
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <!--
 **marcelogcatnguiba/marcelogcatnguiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
